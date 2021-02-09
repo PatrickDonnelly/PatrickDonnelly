@@ -1,19 +1,19 @@
 <div align="center">
+  
+![Gif Super Mario](https://github.com/PatrickDonnelly/PatrickDonnelly/blob/main/images/superMario.gif)
 
 ### Hi, I'm Patrick Donnelly, Welcome to my Github :wave:
+    
+__________________________________________________________________________
+      </div>
 
-</div>
-
-      -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# :globe_with_meridians: **Links:**
+### :globe_with_meridians: **Links:**
 
 <div align="center">
 
-[Website](https://patrickdonnelly.github.io/) • [LinkedIn](www.linkedin.com/in/patrickdonnellygames) 
+#### [Website](https://patrickdonnelly.github.io/) • [LinkedIn](www.linkedin.com/in/patrickdonnellygames) 
 
 </div>
-
 
 <!--
 **PatrickDonnelly/PatrickDonnelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
