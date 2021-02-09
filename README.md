@@ -3,33 +3,30 @@
 ![Gif Super Mario](https://github.com/PatrickDonnelly/PatrickDonnelly/blob/main/images/superMario.gif)
 
 ### Hi, I'm Patrick Donnelly, Welcome to my Github :wave:
+### [LinkedIn](www.linkedin.com/in/patrickdonnellygames) • [Website](https://patrickdonnelly.github.io/) 
 
-#### I'm a 3rd year BSc Honours student in my penultimate year of 
-#### Computer Games Development in Institute of Technology Carlow.
+#
+
+#### I'm a 3rd year BSc Honours student in my penultimate year of Computer Games Development in Institute of Technology Carlow.
 #### I am currently seeking a 4-6 month industry related internship.
- 
-____________________________________________________________________________
-</div>  
 
-### :email: **Contact Me:**
+#
 
-<div align="center">
-
-#### [LinkedIn](www.linkedin.com/in/patrickdonnellygames) • [Website](https://patrickdonnelly.github.io/) 
-____________________________________________________________________________
 </div>
 
 ### :computer: **Experience with:**
 
-#### Languages: c++ c# JavaScript HTML CSS Python Assembly 
+#### **Languages:** `c++` `c#` `JavaScript` `HTML` `CSS` `Python` `Assembly` 
 
-#### Game Engines: Unity
+#### **Game Engines:** `Unity`
 
-#### IDEs: Visual Studio 2019 Visual Studio Code Jupyter Notebook Anvil
+#### **IDEs:** `Visual Studio 2019` `Visual Studio Code` `Jupyter Notebook` `Anvil`
 
-#### Source Control: Github Git
+#### **Source Control:** `Github` `Git`
 
-#### Tools: Microsoft Suite Google Suite
+#### **Tools:** `Microsoft Suite` `Google Suite`
+
+#
 
 <!--
 **PatrickDonnelly/PatrickDonnelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
