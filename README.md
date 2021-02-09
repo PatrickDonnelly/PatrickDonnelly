@@ -1,6 +1,19 @@
-### Hi there 👋
+<div align="center">
 
-[Website](https://patrickdonnelly.github.io/) . [LinkedIn](www.linkedin.com/in/patrickdonnellygames) 
+### Hi, I'm Patrick Donnelly, Welcome to my Github :wave:
+
+</div>
+
+      -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# :globe_with_meridians: **Links:**
+
+<div align="center">
+
+[Website](https://patrickdonnelly.github.io/) • [LinkedIn](www.linkedin.com/in/patrickdonnellygames) 
+
+</div>
+
 
 <!--
 **PatrickDonnelly/PatrickDonnelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
