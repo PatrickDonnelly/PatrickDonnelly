@@ -2,7 +2,7 @@
 
 ![Gif Super Mario](https://github.com/PatrickDonnelly/PatrickDonnelly/blob/main/images/superMario.gif)
 
-### Hi, I'm Patrick Donnelly, Welcome to my Github :wave:
+### :wave: Hi, I'm Patrick Donnelly, Welcome to my Github :wave:
 ### [LinkedIn](www.linkedin.com/in/patrickdonnellygames) • [Website](https://patrickdonnelly.github.io/) 
 
 #
@@ -16,15 +16,15 @@
 
 ### :computer: **Experience with:**
 
-#### **Languages:** `c++` `c#` `JavaScript` `HTML` `CSS` `Python` `Assembly` 
+#### **IDEs:**            `Visual Studio 2019` `Visual Studio Code` `Jupyter Notebook` `Anvil`
 
-#### **Game Engines:** `Unity`
+#### **Languages:**       `c++` `c#` `JavaScript` `HTML` `CSS` `Python` `Assembly` 
 
-#### **IDEs:** `Visual Studio 2019` `Visual Studio Code` `Jupyter Notebook` `Anvil`
+#### **Tools:**           `Microsoft Suite` `Google Suite`
 
-#### **Source Control:** `Github` `Git`
+#### **Source Control:**  `Github` `Git`
 
-#### **Tools:** `Microsoft Suite` `Google Suite`
+#### **Game Engines:**    `Unity`
 
 #
 
