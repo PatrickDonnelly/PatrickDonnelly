@@ -16,17 +16,23 @@
 
 ### :computer: **Experience with:**
 
-#### **IDEs:**            `Visual Studio 2019` `Visual Studio Code` `Jupyter Notebook` `Anvil`
-
 #### **Languages:**       `c++` `c#` `JavaScript` `HTML` `CSS` `Python` `Assembly` 
 
-#### **Tools:**           `Microsoft Suite` `Google Suite`
-
-#### **Source Control:**  `Github` `Git`
+#### **IDEs:**            `Visual Studio 2019` `Visual Studio Code` `Jupyter Notebook` `Anvil`
 
 #### **Game Engines:**    `Unity`
 
+#### **Source Control:**  `Github` `Git`
+
+#### **Tools:**           `Microsoft Suite` `Google Suite`
+
 #
+
+<div align="center">
+
+<img src="https://github.com/PatrickDonnelly/PatrickDonnelly/blob/main/images/mario.gif" height="64" width="64">
+
+</div>
 
 <!--
 **PatrickDonnelly/PatrickDonnelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
