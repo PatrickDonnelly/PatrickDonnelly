@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+[Website](https://patrickdonnelly.github.io/) . [LinkedIn](www.linkedin.com/in/patrickdonnellygames) 
+
 <!--
 **PatrickDonnelly/PatrickDonnelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### [Website](https://patrickdonnelly.github.io/) . [LinkedIn](www.linkedin.com/in/patrickdonnellygames) 
+[Website](https://patrickdonnelly.github.io/) . [LinkedIn](www.linkedin.com/in/patrickdonnellygames) 
 
 
 Here are some ideas to get you started:
