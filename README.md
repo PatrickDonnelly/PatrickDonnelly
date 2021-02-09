@@ -3,7 +3,7 @@
 ![Gif Super Mario](https://github.com/PatrickDonnelly/PatrickDonnelly/blob/main/images/superMario.gif)
 
 ### :wave: Hi, I'm Patrick Donnelly, Welcome to my Github :wave:
-### [LinkedIn](www.linkedin.com/in/patrickdonnellygames) • [Website](https://patrickdonnelly.github.io/) 
+### [LinkedIn](https://www.linkedin.com/in/patrickdonnellygames/) • [Website](https://patrickdonnelly.github.io/) 
 
 #
 
