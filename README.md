@@ -1,11 +1,11 @@
 <div align="center">
-  
+
 ![Gif Super Mario](https://github.com/PatrickDonnelly/PatrickDonnelly/blob/main/images/superMario.gif)
 
 ### Hi, I'm Patrick Donnelly, Welcome to my Github :wave:
-    
-__________________________________________________________________________
-      </div>
+</div>   
+____________________________________________________________________________
+
 
 ### :globe_with_meridians: **Links:**
 
@@ -17,9 +17,6 @@ __________________________________________________________________________
 
 <!--
 **PatrickDonnelly/PatrickDonnelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[Website](https://patrickdonnelly.github.io/) . [LinkedIn](www.linkedin.com/in/patrickdonnellygames) 
-
 
 Here are some ideas to get you started:
 
