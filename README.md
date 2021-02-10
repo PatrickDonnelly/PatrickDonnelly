@@ -14,19 +14,24 @@
 
 </div>
 
-### :computer: **Experience with:**
+## :computer: **Experience with:**
 
-#### **Languages:**       `c++` `c#` `JavaScript` `HTML` `CSS` `Python` `Assembly` 
+## **Languages:**       
+`c++` `c#` `JavaScript` `HTML` `CSS` `Python` `Assembly` 
 
-#### **IDEs:**            `Visual Studio 2019` `Visual Studio Code` `Jupyter Notebook` `Anvil`
+## **IDEs:**            
+`Visual Studio 2019` `Visual Studio Code` `Jupyter Notebook` `Anvil`
 
-#### **Game Engines:**    `Unity`
+## **Game Engines:**    
+`Unity`
 
-#### **Source Control:**  `Github` `Git`
+## **Source Control:**  
+`Github` `Git`
 
-#### **Tools:**           `Microsoft Suite` `Google Suite`
+## **Tools:**           
+`Microsoft Suite` `Google Suite`
 
-#
+
 
 <div align="center">
 
