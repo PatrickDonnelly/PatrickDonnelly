@@ -19,22 +19,14 @@
 ### **Languages:**       
 `c++` `c#` `JavaScript` `HTML` `CSS` `Python` `Assembly` 
 
-#
-
 ### **IDEs:**            
 `Visual Studio 2019` `Visual Studio Code` `Jupyter Notebook` `Anvil`
-
-#
 
 ### **Game Engines:**    
 `Unity`
 
-#
-
 ### **Source Control:**  
 `Github` `Git`
-
-#
 
 ### **Tools:**           
 `Microsoft Suite` `Google Suite`
