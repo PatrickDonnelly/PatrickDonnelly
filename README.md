@@ -12,24 +12,34 @@
 
 #
 
+### :computer: **Experience with:**
+
 </div>
 
-## :computer: **Experience with:**
-
-## **Languages:**       
+#### **Languages:**       
 `c++` `c#` `JavaScript` `HTML` `CSS` `Python` `Assembly` 
 
-## **IDEs:**            
+#
+
+#### **IDEs:**            
 `Visual Studio 2019` `Visual Studio Code` `Jupyter Notebook` `Anvil`
 
-## **Game Engines:**    
+#
+
+#### **Game Engines:**    
 `Unity`
 
-## **Source Control:**  
+#
+
+#### **Source Control:**  
 `Github` `Git`
 
-## **Tools:**           
+
+
+#### **Tools:**           
 `Microsoft Suite` `Google Suite`
+
+
 
 
 
