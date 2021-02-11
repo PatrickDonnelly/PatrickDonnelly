@@ -8,7 +8,7 @@
 #
 
 #### I'm a 3rd year BSc Honours student in my penultimate year of Computer Games Development in Institute of Technology Carlow.
-#### I am currently seeking a 4-6 month industry related internship.
+#### I am currently seeking a 4-6 month internship in software development and related fields.
 
 #
 
