@@ -29,7 +29,7 @@
 `Github` `Git`
 
 ### **Tools:**           
-`Microsoft Suite` `Google Suite`
+`pandas` `Microsoft Suite` `Google Suite`
 
 #
 
