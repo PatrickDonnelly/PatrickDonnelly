@@ -7,7 +7,8 @@
 
 #
 
-#### I'm a 3rd year BSc Honours student in my penultimate year of Computer Games Development in Institute of Technology Carlow.
+#### I'm a 4th year BSc Honours student in my final year of Computer Games Development 
+#### in South East Technological University (SETU) formerly Institute of Technology Carlow..
 #### I am currently seeking a 4-6 month internship in software development and related fields.
 
 #
